@@ -1,6 +1,8 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - Results summary component
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Thanks for checking out this front-end coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -16,16 +18,22 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+Your challenge is to build out this results summary component and get it looking as close to the design as possible.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+We provide the data for the results in a local `data.json` file. So you can use that to add the results and total score dynamically if you choose.
+
+Your users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
+
+Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ### Screenshot
 
